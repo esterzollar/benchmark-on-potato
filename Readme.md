@@ -28,7 +28,7 @@ Because this is a **Mixture-of-Experts (MoE)** model, it only activates ~2.4B pa
 4. **Mode:** Set your laptop to **Performance Mode** and keep the charger plugged in.
 
 ###  Running the Benchmark
-Run the provided `deep.py` script to test your own device:
+Run the provided `deep.py and more accurate deep_decode.py` script to test your own device:
 ```bash
 python3 deep.py
 ```
@@ -47,7 +47,7 @@ I had asked OpenAI's ChatGPT if this was possible, it told me it's "impossible" 
 
 Stop asking AI and start testing your hardware.
 
-**Check the `DeepSeek-Coder-V2-Lite-Instruct-Q4_K_M_result.txt` for my full TXT logs of Testing!**
+**Check the `DeepSeek-Coder-V2-Lite-Instruct-Q4_K_M_result.txt and test2output.txt` for my full TXT logs of Testing!**
 
 
 > **Note from the Author:**
